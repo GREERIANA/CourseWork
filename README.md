@@ -31,5 +31,8 @@ Step 13. Checkout the "master" branch
 
 Step 14. Create a new branch called "feature2" ... repeat steps 7-12.
 
+### Naming Convention
+
+Platform_Course_Name_&_Number
 
 
